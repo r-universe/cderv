@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/cderv/cderv.r-universe.dev
 	branch = HEAD
-[submodule "curl"]
-	path = curl
-	url = https://github.com/jeroen/curl
-	registered = false
 [submodule "tutoquartotypst"]
 	path = tutoquartotypst
 	url = https://github.com/cderv/tuto-quarto-typst-rr-2026
