@@ -2,6 +2,18 @@
 	path = .registry
 	url = https://github.com/cderv/cderv.r-universe.dev
 	branch = HEAD
+[submodule "bfr"]
+	path = bfr
+	url = https://github.com/cderv/bfr
+[submodule "opendatarte"]
+	path = opendatarte
+	url = https://github.com/cderv/opendatarte
+[submodule "pandoc"]
+	path = pandoc
+	url = https://github.com/cderv/pandoc
+[submodule "proxyconfig"]
+	path = proxyconfig
+	url = https://github.com/cderv/proxyconfig
 [submodule "tutoquartotypst"]
 	path = tutoquartotypst
 	url = https://github.com/cderv/tuto-quarto-typst-rr-2026
