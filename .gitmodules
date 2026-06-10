@@ -1,11 +1,12 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/cderv/cderv.r-universe.dev
 	branch = HEAD
 [submodule "curl"]
 	path = curl
 	url = https://github.com/jeroen/curl
 	registered = false
-[submodule "pandoc"]
-	path = pandoc
-	url = https://github.com/cderv/pandoc
+[submodule "tutoquartotypst"]
+	path = tutoquartotypst
+	url = https://github.com/cderv/tuto-quarto-typst-rr-2026
+	subdir = pkg
